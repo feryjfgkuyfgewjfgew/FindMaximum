@@ -53,11 +53,13 @@ ef max_marks(list1):
 
 ## Output:
 
-![Alt text](image-1.png)
+![image](https://github.com/feryjfgkuyfgewjfgew/FindMaximum/assets/150319377/7b0ab894-1e28-4017-82c1-b1d22c3eaec9)
 
-![Alt text](image-2.png)
+![image](https://github.com/feryjfgkuyfgewjfgew/FindMaximum/assets/150319377/8a84f2ea-5e20-4957-929f-123562ce2cbf)
 
-![Alt text](image-3.png)
+![image](https://github.com/feryjfgkuyfgewjfgew/FindMaximum/assets/150319377/67f5ff9b-e434-4157-b7ba-dc4e1f02d8b6)
+
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
